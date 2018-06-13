@@ -2,8 +2,8 @@
 #include "ESP8266WiFi.h"
 #include "DHT.h"
 
-const char *ssid = "NSTDA-Project-7013";
-const char *passw = "1q2w3e4r";
+const char *ssid = "NSTDA-Project";
+const char *passw = "Password WIFI";
 
 #define host "localhost"
 #define port 4000
